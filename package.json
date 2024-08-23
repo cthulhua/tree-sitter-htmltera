@@ -16,13 +16,13 @@
   "author": "William Vandervalk",
   "license": "MIT",
   "dependencies": {
-    "nan": "^2.15.0"
+    "nan": "^2.20.0"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/interdependence/tree-sitter-htmldjango.git"
   },
   "devDependencies": {
-    "tree-sitter-cli": "^0.20.4"
+    "tree-sitter-cli": "^0.20.8"
   }
 }
